@@ -42,4 +42,3 @@ class Student:
             if type(att) is not str:
                 return self.__dict__
         return {x: self.__dict__[x] for x in self.__dict__ if x in attrs}
-
