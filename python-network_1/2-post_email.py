@@ -12,4 +12,4 @@ if __name__ == '__main__':
 
     request = Request(sys.argv[1], data)
     with urlopen(request) as response:
-        print(response.read().decode('utf-8'))        
+        print(response.read().decode('utf-8'))
