@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Script that fetches https://alu-intranet.aluswe.com/status."""
+"""Script that fetches http://0.0.0.0:5050/status."""
 from urllib.request import Request, urlopen
 
 
