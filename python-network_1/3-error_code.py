@@ -15,5 +15,4 @@ def send_request():
         print("Error code: {}".format(err.code))
 
 if __name__ == "__main__":
-    send_request()
-    
+    send_request()    
