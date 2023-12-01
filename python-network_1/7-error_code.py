@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 """A script that sends a requests and displays the body of response."""
+
+
 if __name__ == '__main__':
     import requests
     import sys
