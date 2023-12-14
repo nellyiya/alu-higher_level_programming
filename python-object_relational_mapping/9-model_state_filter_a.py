@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""A script that lists all records with letter a"""
+"""A script that lists all State objects that
+contain the letter a from the database"""
 
 
 import sys
